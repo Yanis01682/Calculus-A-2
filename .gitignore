@@ -1,0 +1,25 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# Build artifacts
+build/
+cmake-build*/
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.user
+
+# Archives generated locally
+*.zip
+*.rar
+*.7z
